@@ -2,5 +2,5 @@
 
 ### Olá, meu nome é Lucas Mendes!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Lucas Mendes&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=LuMendes-bits&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
