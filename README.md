@@ -1,5 +1,6 @@
-## Hello there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=LuMendes-bit&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-[![card](https://github-readme-stats.vercel.app/api?username=LuMendes-bit&theme=Highcontrast_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### Olá, meu nome é {seu nome}!
 
-[![LuMendes-bit](https://github-readme-stats.vercel.app/api/top-langs/?username=LuMendes-bit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/static/v1?label=Overview&message=Lucas Mendes&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
